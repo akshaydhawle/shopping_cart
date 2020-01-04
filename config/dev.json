@@ -1,0 +1,6 @@
+{
+    "db":"mongodb://localhost:27017/dev",
+    "host":"localhost",
+    "port":"8485",
+    "secretKey":"TopSecret"
+}

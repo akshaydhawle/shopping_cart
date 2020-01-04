@@ -1,0 +1,7 @@
+{
+    "db":"mongodb://localhost:27017/practice",
+    "host":"localhost",
+    "port":"8484",
+    "secretKey":"TopSecret",
+    "imgPath":"G:/Test/shopping_cart/uploads/"
+}
